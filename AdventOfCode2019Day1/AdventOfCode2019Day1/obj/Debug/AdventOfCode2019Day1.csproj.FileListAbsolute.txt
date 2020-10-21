@@ -1,0 +1,10 @@
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\bin\Debug\AdventOfCode2019Day1.exe.config
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\bin\Debug\AdventOfCode2019Day1.exe
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\bin\Debug\AdventOfCode2019Day1.pdb
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.csprojAssemblyReference.cache
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.Form1.resources
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.Properties.Resources.resources
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.csproj.GenerateResource.cache
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.csproj.CoreCompileInputs.cache
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.exe
+C:\Users\McGibbo\Documents\CodingProjects\AdventOfCode2019\Day1\Day1\AdventOfCode2019Day1\AdventOfCode2019Day1\obj\Debug\AdventOfCode2019Day1.pdb
